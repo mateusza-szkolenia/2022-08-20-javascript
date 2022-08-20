@@ -9,5 +9,6 @@ div.blok {
 
 div.bloki {
     display: flex;
+    flex-wrap: wrap;
     border: 8px solid blue;
 }
