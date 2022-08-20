@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(101, 220, 164);
+}
+
+h1 {
+    color: rgb(149, 172, 223);
+    font-family: 'Courier New';
+}
+
+h2 {
+    color: red;
+    background-color: yellow;
+    font-family: Georgia;
+}
