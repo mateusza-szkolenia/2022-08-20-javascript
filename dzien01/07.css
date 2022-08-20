@@ -8,5 +8,6 @@ div.blok {
 }
 
 div.bloki {
+    display: flex;
     border: 8px solid blue;
 }
