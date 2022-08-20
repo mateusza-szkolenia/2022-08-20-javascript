@@ -3,7 +3,10 @@ div.ikonka {
 }
 
 div.blok {
-    outline: 8px solid red;
+    border: 8px solid red;
     width: 27%;
 }
 
+div.bloki {
+    border: 8px solid blue;
+}
