@@ -12,3 +12,17 @@ h2 {
     background-color: yellow;
     font-family: Georgia;
 }
+
+strong, b, i, em, u {
+    background-color: #d42;
+}
+
+h1, h2 {
+    border: 2px solid black;
+    text-align: center;
+}
+
+p {
+    outline: 5px dotted #d05;
+    text-align: justify;
+}
