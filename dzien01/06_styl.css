@@ -55,3 +55,15 @@ p:nth-of-type(even) {
     margin-left: 100px;
 }
 
+p:hover {
+    background-color: #252;
+    color: #fff;
+}
+
+p.wazne strong {
+    background-color: #628;
+}
+
+h2 + p {
+    margin-top: 0;
+}
