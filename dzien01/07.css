@@ -10,5 +10,6 @@ div.blok {
 div.bloki {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-between;
     border: 8px solid blue;
 }
