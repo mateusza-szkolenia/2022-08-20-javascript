@@ -1,3 +1,9 @@
 div.ikonka {
     font-size: 6em;
 }
+
+div.blok {
+    outline: 8px solid red;
+    width: 27%;
+}
+
