@@ -1,0 +1,22 @@
+# Todo
+
+- grafika
+    - JPEG
+    - PNG
+    - SVG
+- HTML
+    - linki wew
+    - formularze
+    - tagi semantyczne
+    - data
+- HTTP
+- CSS
+    - responsywność
+    - transition
+    - background
+    - fonty
+- JS
+    - onclick
+    - document.querySelector
+        - className
+        - textContent
