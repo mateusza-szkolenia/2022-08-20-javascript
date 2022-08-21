@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<oferty>
+    <oferta>
+        <przedmiot>samochód Peugeot</przedmiot>
+        <uzywany />
+        <cena waluta="PLN">100000</cena>
+        <waznosc>
+            <od>2022-08-21</od>
+            <do>2022-09-01</do>
+        </waznosc>
+    </oferta>
+
+    <oferta>
+        <przedmiot>samochód Peugeot</przedmiot>
+        <uzywany />
+        <cena waluta="PLN">100000</cena>
+        <waznosc>
+            <od>2022-08-21</od>
+            <do>2022-09-01</do>
+        </waznosc>
+    </oferta>
+</oferty>
