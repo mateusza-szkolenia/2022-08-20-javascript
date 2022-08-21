@@ -72,5 +72,10 @@ h2 {
     body {
         font-family: Georgia, 'Times New Roman', Times, serif;
         color: #f00;
+        font-size: 32pt;
+    }
+
+    section {
+        page-break-inside: avoid;
     }
 }
