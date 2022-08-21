@@ -1,0 +1,69 @@
+body {
+    color: #115;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+/*
+main, section, h2, body {
+    outline-style: solid;
+    outline-width: 2px;
+}
+*/
+main {
+    outline-color: red;
+}
+
+section {
+    outline-color: green;
+}
+
+body {
+    outline-color: blue;
+}
+
+h2 {
+    outline-color: yellow;
+}
+
+
+
+@media (min-width: 1000px) {
+
+    main {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    main section {
+        width: 30%;
+        margin-bottom: 2em;
+    }
+
+    body {
+        width: 960px;
+        margin: auto;
+    }
+
+    main section h2 {
+        text-align: center;
+    }
+
+    main section p {
+        text-align: justify;
+    }
+
+}
+
+@media (min-width: 1300px) {
+    body {
+        width: 1200px;
+        font-size: 1.5em;
+    }
+}
+
+@media (max-width: 999px) {
+    section:nth-of-type(odd) {
+        background-color: #ccc;
+    }
+}
