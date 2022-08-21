@@ -25,6 +25,9 @@ h2 {
     outline-color: yellow;
 }
 
+h2:target {
+    background-color: #ff5;
+}
 
 
 @media (min-width: 1000px) {
