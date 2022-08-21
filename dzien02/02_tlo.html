@@ -102,6 +102,21 @@
             color: #fff;
         }
 
+        body.fancy {
+            background-color: pink;
+            background-image: none;
+            color: green;
+        }
+
+        body.fancy h1 { color: black; font-size: 3em;}
+        body.fancy .wazne { color: red; }
+
+        #emotka1, #emotka2 { display: none; }
+
+        body.nocny #emotka1 { display: inline; }
+        body.fancy #emotka2 { display: inline; }
+
+        body.fancy aside { display: none; }
     </style>
 
 </head>
@@ -115,7 +130,11 @@
     </nav>
 
     <main>
-    <h1>Moja strona</h1>
+    <h1>Moja strona
+        <span id="emotka1">🍋</span>
+        <span id="emotka2">🍌</span>
+
+    </h1>
 
     <aside>
         <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Earum quas rerum autem possimus, soluta accusamus! Eveniet ab distinctio, nulla, culpa nam deserunt et sequi, assumenda voluptatibus itaque aliquid fugiat sunt.</p>
